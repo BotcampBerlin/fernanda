@@ -1,0 +1,70 @@
+{
+  "geonames": [
+    {
+      "countryCode": "DE",
+      "distance": "0.2054",
+      "elevation": 51,
+      "feature": "landmark",
+      "lang": "en",
+      "lat": 52.54222,
+      "lng": 13.39295,
+      "rank": 85,
+      "summary": "Voltastraße  is a Berlin U-Bahn station located on the . Built in 1914 but opened in 1930 (by A.Grenander) it has granite columns and is only 4,5m below the street. During the first world war the station could not be finished, so it was opened 1930.J. Meyer-Kronthaler, Berlins U-Bahnhöfe, Berlin: be (...)",
+      "title": "Voltastraße (Berlin U-Bahn)",
+      "wikipediaUrl": "en.wikipedia.org/wiki/Voltastra%C3%9Fe_%28Berlin_U-Bahn%29"
+    },
+    {
+      "countryCode": "DE",
+      "distance": "0.5377",
+      "elevation": 44,
+      "feature": "landmark",
+      "lang": "en",
+      "lat": 52.53628333333333,
+      "lng": 13.392719444444444,
+      "rank": 69,
+      "summary": "Tunnel 57 was a tunnel under the Berlin Wall, that in October of 1964 was the location of a mass escape by 57 East Berlin citizens. Student and future astronaut Reinhard Furrer was among the West German escape helpers who assisted the East Berliners in escaping (...)",
+      "title": "Tunnel 57",
+      "wikipediaUrl": "en.wikipedia.org/wiki/Tunnel_57"
+    },
+    {
+      "countryCode": "DE",
+      "distance": "0.5685",
+      "elevation": 50,
+      "feature": "landmark",
+      "lang": "en",
+      "lat": 52.537382433333335,
+      "lng": 13.396722077777778,
+      "rank": 86,
+      "summary": "Bernauer Straße is a Berlin U-Bahn station located on the . Built by the subway architect A. Grenander in 1930 this station was a station of the GN Bahn (Gesundbrunnen-Neukölln) of line D. In April 1945 it was closed due to World War II (...)",
+      "title": "Bernauer Straße (Berlin U-Bahn)",
+      "wikipediaUrl": "en.wikipedia.org/wiki/Bernauer_Stra%C3%9Fe_%28Berlin_U-Bahn%29"
+    },
+    {
+      "countryCode": "DE",
+      "distance": "0.5764",
+      "elevation": 38,
+      "feature": "landmark",
+      "lang": "en",
+      "lat": 52.53583333333333,
+      "lng": 13.391944444444444,
+      "rank": 80,
+      "summary": "The Kapelle der Versöhnung (simply: Chapel of Reconciliation) stands on the site of the old Church of Reconciliation (in German), on Bernauer Straße in the Mitte district of Berlin.  (...)",
+      "thumbnailImg": "http://www.geonames.org/img/wikipedia/2000/thumb-1423-100.jpg",
+      "title": "Kapelle der Versöhnung",
+      "wikipediaUrl": "en.wikipedia.org/wiki/Kapelle_der_Vers%C3%B6hnung"
+    },
+    {
+      "countryCode": "DE",
+      "distance": "0.6192",
+      "elevation": 37,
+      "feature": "landmark",
+      "lang": "en",
+      "lat": 52.535401,
+      "lng": 13.390317,
+      "rank": 89,
+      "summary": "The Ackerstraße is a street in Berlin which runs northwest from near the Liesenstraße – Scheringstraße traffic circle in Gesundbrunnen to Invalidenstraße, where it turns south, terminating at the Linienstraße in Mitte.  (...)",
+      "title": "Ackerstraße",
+      "wikipediaUrl": "en.wikipedia.org/wiki/Ackerstra%C3%9Fe"
+    }
+  ]
+}
